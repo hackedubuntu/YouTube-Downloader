@@ -1,7 +1,8 @@
 # YouTube-Downloader
 Another YouTube Downloader App but runs on Black Screens (cli or cmd)
 
-usage: ytdown.py [-h] [-u URL] [-p PLAYLIST] [-r RANGE_PLAYLIST]
+usage: 
+      ytdown.py [-h] [-u URL] [-p PLAYLIST] [-r RANGE_PLAYLIST]
 
 optional arguments:
   -h, --help                                   show this help message and exit
